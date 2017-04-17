@@ -1,3 +1,7 @@
 JavaAPI/target
 JavaAPI/.classpath
 JavaAPI/.project
+Jackson/.classpath
+Jackson/.project
+Jackson/target
+Jackson/target/*
